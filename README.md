@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Just-a-good-programmer
-- 👀 I’m interested in coding romhacks and various other programs
-- 🌱 I’m currently learning about commits, java, c++ and refreshing python.
+- 👀 I’m interested in coding romhacks, websites, software applications and various other programs.
+- 🌱 I’m currently learning about OOP java, c#,  and refreshing my knowledge on the language python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1221568@student.roc-nijmegen.nl
 - 😄 Pronouns: he/him/that dude
